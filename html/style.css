@@ -1,0 +1,90 @@
+.outer
+{
+    width: 700px;
+    height: 1000px;
+    border: 2px solid black;
+    margin: 0px auto;
+
+}
+
+hr
+{
+    width: 70%;
+    height: 3px;
+    border: none;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 7%;
+}
+
+.general
+{
+    border: none;
+    width: 600px;
+    height: 900px;
+    margin-left: 60px;
+    font-weight: bold;
+}
+p
+{
+    margin: 10px;
+}
+
+
+
+#junior
+{
+    
+    color: rgb(11, 179, 11);
+    
+    
+    
+}
+#address
+{
+    padding-top: 5px;
+}
+h1
+{
+    margin: 0%;
+
+}
+#skills
+{
+    color: rgb(11, 179, 11);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#education
+{
+    color: rgb(11, 179, 11);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#college
+{
+    color: rgb(31, 191, 255);
+    
+}
+
+#experience
+{
+    color: rgb(11, 179, 11);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#company
+{
+    color: rgb(31, 191, 255);
+}
+
+#access
+{
+    color: rgb(11, 179, 11);
+    padding-top: 10px;
+   
+
+}
